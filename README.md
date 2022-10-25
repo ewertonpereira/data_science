@@ -1,2 +1,3 @@
-# data_science
- learning python data science
+### Data science
+
+ Using this repository to learning data science with Python and R
